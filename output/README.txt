@@ -1,0 +1,1 @@
+Here generate the file products_after_30_days.txt with report

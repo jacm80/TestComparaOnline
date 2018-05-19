@@ -26,10 +26,23 @@ $ npm install
 $ npm start
 ```
 
+Install mocha and babel in global context for the execute test 
+
+```npm i -g babel mocha```
+
 ## Folder structure
 
 * node_modules: dependencies libraries 
-* output: report file generate with yarn start | npm start
+* output: report file generate with:
+
+```yarn start```
+
+or 
+
+```npm start```
+
+It generate the file products_after_30_days.txt with report list
+
 * src: sources application:
    1. clases: source clases based in OOP (CarInsurance, Product)
    2. fixtures: fixed data to test
