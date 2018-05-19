@@ -4,7 +4,7 @@
   "description": "Test for Compara on line",
   "main": "index.js",
   "scripts": {
-    "test": "clear && mocha --require babel-register src/tests/",
+    "test": "clear && mocha -R spec --require babel-register src/tests/",
     "start": "clear && babel-node src"
   },
   "author": "Juan Canepa",
