@@ -20,7 +20,7 @@ class CarInsurance {
 
    updatePrice() {
       _.each(this.products, p => {
-         if (!_.isEmpty(p)) {
+         if (!_.isEmpty(p.name)) {
             if (!this.isValid(p.sellIn)) { 
                if (p.name != 'Mega Coverage') p.price = 0;
                return; 
