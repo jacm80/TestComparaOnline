@@ -1,0 +1,360 @@
+Day 1
+name, sellIn, price
+Medium Coverage, 9, 19
+Full Coverage, 1, 1
+Low Coverage, 4, 6
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 14, 20
+Special Full Coverage, 9, 50
+Special Full Coverage, 4, 50
+Super Sale, 2, 4
+
+Day 2
+name, sellIn, price
+Medium Coverage, 8, 18
+Full Coverage, 0, 2
+Low Coverage, 3, 5
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 13, 20
+Special Full Coverage, 8, 50
+Special Full Coverage, 3, 50
+Super Sale, 1, 2
+
+Day 3
+name, sellIn, price
+Medium Coverage, 7, 17
+Full Coverage, 0, 0
+Low Coverage, 2, 4
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 12, 20
+Special Full Coverage, 7, 50
+Special Full Coverage, 2, 50
+Super Sale, 0, 0
+
+Day 4
+name, sellIn, price
+Medium Coverage, 6, 16
+Full Coverage, 0, 0
+Low Coverage, 1, 3
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 11, 20
+Special Full Coverage, 6, 50
+Special Full Coverage, 1, 50
+Super Sale, 0, 0
+
+Day 5
+name, sellIn, price
+Medium Coverage, 5, 15
+Full Coverage, 0, 0
+Low Coverage, 0, 2
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 10, 20
+Special Full Coverage, 5, 50
+Special Full Coverage, 0, 50
+Super Sale, 0, 0
+
+Day 6
+name, sellIn, price
+Medium Coverage, 4, 14
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 9, 22
+Special Full Coverage, 4, 50
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 7
+name, sellIn, price
+Medium Coverage, 3, 13
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 8, 24
+Special Full Coverage, 3, 50
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 8
+name, sellIn, price
+Medium Coverage, 2, 12
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 7, 26
+Special Full Coverage, 2, 50
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 9
+name, sellIn, price
+Medium Coverage, 1, 11
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 6, 28
+Special Full Coverage, 1, 50
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 10
+name, sellIn, price
+Medium Coverage, 0, 10
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 5, 30
+Special Full Coverage, 0, 50
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 11
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 4, 35
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 12
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 3, 40
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 13
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 2, 45
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 14
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 1, 50
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 15
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 50
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 16
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 17
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 18
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 19
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 20
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 21
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 22
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 23
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 24
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 25
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 26
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 27
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 28
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 29
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
+Day 30
+name, sellIn, price
+Medium Coverage, 0, 0
+Full Coverage, 0, 0
+Low Coverage, 0, 0
+Mega Coverage, 0, 80
+Mega Coverage, -1, 80
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Special Full Coverage, 0, 0
+Super Sale, 0, 0
+
